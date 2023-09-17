@@ -1,0 +1,5 @@
+#include"fichier.h"
+#include"fichier.placercarte.h"
+#include"sauvegarde.h"
+#include"affichage.h"
+#include"Initilisation.h"

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="placerCarte.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5604" topLine="177" />
+		</Cursor>
+		<Folding>
+			<Collapse line="192" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="143" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fichier.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="232" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fichier.placercarte.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3663" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="structure.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sauvegarde.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="Sauvegarde.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Initilisation.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="864" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="points.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1592" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="InitilisationJoueurs.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="43" />
+		</Folding>
+	</File>
+	<File name="affichage.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13105" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="affichage.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="nouvellePartie.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3325" topLine="47" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="fichier.placercarte.h">
+		<File name="main.c" />
+		<File name="affichage.h" />
+		<File name="fichier.placercarte.h" />
+		<File name="Initilisation.h" />
+		<File name="sauvegarde.h" />
+	</Target>
+</CodeBlocks_layout_file>

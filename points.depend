@@ -1,0 +1,730 @@
+# depslib dependency file v1.0
+1622811069 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\points.c
+	"fichier.h"
+
+1622811750 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+
+1622809339 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\main.c
+	"fichier.h"
+
+1622809571 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\initilisationjoueurs.c
+	"fichier.h"
+
+1622640930 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\score.c
+	"fichier.h"
+
+1622801241 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\placercarte.c
+	"fichier.h"
+
+1622806690 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\points\sauvegarde.c
+	"fichier.h"
+
+1622887843 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622886050 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622886550 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887642 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887796 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\points.c
+	"fichier.h"
+
+1622640930 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\score.c
+	"fichier.h"
+
+1622887873 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622884987 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\structure.c
+
+1622884987 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\structure.c
+
+1622886050 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\fichier.placercarte.h
+
+1622885594 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\sauvegarde.h
+
+1622886050 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\affichage.h
+
+1622885944 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\initilisation.h
+
+1622887763 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622887176 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887557 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622887763 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622886050 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622884987 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\structure.c
+
+1622890017 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\sauvegarde.h
+
+1622890017 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\affichage.h
+
+1622887176 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622890017 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\fichier.placercarte.h
+
+1622890017 c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\initilisation.h
+
+1622887843 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622890083 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887557 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622887642 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887796 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\points.c
+	"fichier.h"
+
+1622887873 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622884987 source:c:\users\bapti\onedrive\documents\ing1\informatique\semestre 2\projet\nouveau dossier\nouveau dossier\points\structure.c
+
+1622887763 source:c:\users\jaish\downloads\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622886050 c:\users\jaish\downloads\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622884987 c:\users\jaish\downloads\version1.0\points\structure.c
+
+1622890017 c:\users\jaish\downloads\version1.0\points\sauvegarde.h
+
+1622890017 c:\users\jaish\downloads\version1.0\points\affichage.h
+
+1622887176 source:c:\users\jaish\downloads\version1.0\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622890017 c:\users\jaish\downloads\version1.0\points\fichier.placercarte.h
+
+1622890017 c:\users\jaish\downloads\version1.0\points\initilisation.h
+
+1622887843 source:c:\users\jaish\downloads\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622890386 source:c:\users\jaish\downloads\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887557 source:c:\users\jaish\downloads\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622887642 source:c:\users\jaish\downloads\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887796 source:c:\users\jaish\downloads\version1.0\points\points.c
+	"fichier.h"
+
+1622887873 source:c:\users\jaish\downloads\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622884987 source:c:\users\jaish\downloads\version1.0\points\structure.c
+
+1622932411 source:c:\users\33768\downloads\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622886052 c:\users\33768\downloads\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622926324 c:\users\33768\downloads\version1.0\points\structure.c
+
+1622890018 c:\users\33768\downloads\version1.0\points\sauvegarde.h
+
+1622890018 c:\users\33768\downloads\version1.0\points\affichage.h
+
+1622887178 source:c:\users\33768\downloads\version1.0\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622890018 c:\users\33768\downloads\version1.0\points\fichier.placercarte.h
+
+1622928368 c:\users\33768\downloads\version1.0\points\initilisation.h
+
+1622932105 source:c:\users\33768\downloads\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622927102 source:c:\users\33768\downloads\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622931360 source:c:\users\33768\downloads\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887798 source:c:\users\33768\downloads\version1.0\points\points.c
+	"fichier.h"
+
+1622927102 source:c:\users\33768\downloads\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622926324 source:c:\users\33768\downloads\version1.0\points\structure.c
+
+1622930400 source:c:\users\33768\downloads\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622932653 source:c:\users\33768\downloads\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622964932 source:c:\users\bapti\downloads\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622886052 c:\users\bapti\downloads\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622926326 c:\users\bapti\downloads\version1.0\points\structure.c
+
+1622890018 c:\users\bapti\downloads\version1.0\points\sauvegarde.h
+
+1622890018 c:\users\bapti\downloads\version1.0\points\affichage.h
+
+1622887178 source:c:\users\bapti\downloads\version1.0\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622890018 c:\users\bapti\downloads\version1.0\points\fichier.placercarte.h
+
+1622928370 c:\users\bapti\downloads\version1.0\points\initilisation.h
+
+1622930402 source:c:\users\bapti\downloads\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622973016 source:c:\users\bapti\downloads\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622970824 source:c:\users\bapti\downloads\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622972872 source:c:\users\bapti\downloads\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622973446 source:c:\users\bapti\downloads\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622887798 source:c:\users\bapti\downloads\version1.0\points\points.c
+	"fichier.h"
+
+1622964932 source:c:\users\bapti\downloads\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622926326 source:c:\users\bapti\downloads\version1.0\points\structure.c
+
+1622979038 source:c:\users\jaish\downloads\version9.3\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622886052 c:\users\jaish\downloads\version9.3\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+
+1622926326 c:\users\jaish\downloads\version9.3\version1.0\points\structure.c
+
+1622890018 c:\users\jaish\downloads\version9.3\version1.0\points\sauvegarde.h
+
+1622890018 c:\users\jaish\downloads\version9.3\version1.0\points\affichage.h
+
+1622887178 source:c:\users\jaish\downloads\version9.3\version1.0\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622890018 c:\users\jaish\downloads\version9.3\version1.0\points\fichier.placercarte.h
+
+1622928370 c:\users\jaish\downloads\version9.3\version1.0\points\initilisation.h
+
+1622930402 source:c:\users\jaish\downloads\version9.3\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622973016 source:c:\users\jaish\downloads\version9.3\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622970824 source:c:\users\jaish\downloads\version9.3\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622972872 source:c:\users\jaish\downloads\version9.3\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1622973446 source:c:\users\jaish\downloads\version9.3\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622973743 source:c:\users\jaish\downloads\version9.3\version1.0\points\points.c
+	"fichier.h"
+
+1622964932 source:c:\users\jaish\downloads\version9.3\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622926326 source:c:\users\jaish\downloads\version9.3\version1.0\points\structure.c
+
+1622887178 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\animation.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622994560 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+	<math.h>
+
+1623002978 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1623002898 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\fichier.placercarte.h
+
+1622890018 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\sauvegarde.h
+
+1622890018 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\affichage.h
+
+1622995580 d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\initilisation.h
+
+1622930402 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622973018 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622999462 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622972874 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1623002898 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622973744 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\points.c
+	"fichier.h"
+
+1622964934 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1623002978 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1622979138 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1623002898 source:d:\ece\ing1\s2\projet d'info 2\version9.3\version1.0\points\victoire.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622979138 source:c:\users\bapti\downloads\version9.3\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622994560 c:\users\bapti\downloads\version9.3\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+	<math.h>
+
+1623002978 c:\users\bapti\downloads\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1623004247 c:\users\bapti\downloads\version9.3\version1.0\points\sauvegarde.h
+
+1623004247 c:\users\bapti\downloads\version9.3\version1.0\points\affichage.h
+
+1622930402 source:c:\users\bapti\downloads\version9.3\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622995580 c:\users\bapti\downloads\version9.3\version1.0\points\initilisation.h
+
+1622973018 source:c:\users\bapti\downloads\version9.3\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623002898 c:\users\bapti\downloads\version9.3\version1.0\points\fichier.placercarte.h
+
+1622972874 source:c:\users\bapti\downloads\version9.3\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1623004247 source:c:\users\bapti\downloads\version9.3\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1622964934 source:c:\users\bapti\downloads\version9.3\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1623002978 source:c:\users\bapti\downloads\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1623002898 source:c:\users\bapti\downloads\version9.3\version1.0\points\victoire.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623004131 source:c:\users\bapti\downloads\version9.3\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623004131 source:c:\users\bapti\downloads\version9.3\version1.0\points\points.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622979138 source:c:\users\33768\downloads\version9.3\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622994560 c:\users\33768\downloads\version9.3\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+	<math.h>
+
+1623002978 c:\users\33768\downloads\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1623004247 c:\users\33768\downloads\version9.3\version1.0\points\sauvegarde.h
+
+1623004247 c:\users\33768\downloads\version9.3\version1.0\points\affichage.h
+
+1622930402 source:c:\users\33768\downloads\version9.3\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622995580 c:\users\33768\downloads\version9.3\version1.0\points\initilisation.h
+
+1622973018 source:c:\users\33768\downloads\version9.3\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623002898 c:\users\33768\downloads\version9.3\version1.0\points\fichier.placercarte.h
+
+1623004131 source:c:\users\33768\downloads\version9.3\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623011048 source:c:\users\33768\downloads\version9.3\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623004131 source:c:\users\33768\downloads\version9.3\version1.0\points\points.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622964934 source:c:\users\33768\downloads\version9.3\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1623002978 source:c:\users\33768\downloads\version9.3\version1.0\points\structure.c
+	<allegro.h>
+
+1623002898 source:c:\users\33768\downloads\version9.3\version1.0\points\victoire.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623007162 source:c:\users\33768\downloads\version9.3\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1623012291 source:c:\users\33768\downloads\version final\version1.0\points\affichage.c
+	"fichier.h"
+	"sauvegarde.h"
+	"affichage.h"
+
+1622994560 c:\users\33768\downloads\version final\version1.0\points\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	"structure.c"
+	<math.h>
+
+1623002978 c:\users\33768\downloads\version final\version1.0\points\structure.c
+	<allegro.h>
+
+1623004247 c:\users\33768\downloads\version final\version1.0\points\sauvegarde.h
+
+1623004247 c:\users\33768\downloads\version final\version1.0\points\affichage.h
+
+1622930402 source:c:\users\33768\downloads\version final\version1.0\points\initilisationjoueurs.c
+	"fichier.h"
+	"Initilisation.h"
+
+1622995580 c:\users\33768\downloads\version final\version1.0\points\initilisation.h
+
+1622973018 source:c:\users\33768\downloads\version final\version1.0\points\main.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623002898 c:\users\33768\downloads\version final\version1.0\points\fichier.placercarte.h
+
+1623004131 source:c:\users\33768\downloads\version final\version1.0\points\menu.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623007162 source:c:\users\33768\downloads\version final\version1.0\points\nouvellepartie.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"Initilisation.h"
+
+1623013573 source:c:\users\33768\downloads\version final\version1.0\points\placercarte.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
+1623004131 source:c:\users\33768\downloads\version final\version1.0\points\points.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1622964934 source:c:\users\33768\downloads\version final\version1.0\points\sauvegarde.c
+	"fichier.h"
+	"sauvegarde.h"
+
+1623002978 source:c:\users\33768\downloads\version final\version1.0\points\structure.c
+	<allegro.h>
+
+1623002898 source:c:\users\33768\downloads\version final\version1.0\points\victoire.c
+	"fichier.h"
+	"fichier.placercarte.h"
+	"sauvegarde.h"
+	"affichage.h"
+	"Initilisation.h"
+
